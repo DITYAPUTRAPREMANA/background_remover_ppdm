@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your project based on the files you uploaded:
-
----
-
 # People Segmentation Model
 
 This project implements a deep learning model for semantic segmentation using U-Net architecture with a ResNet50 backbone. It processes images and masks, trains the model, and performs predictions on test images. The model uses TensorFlow and Keras.
